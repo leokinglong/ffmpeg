@@ -1,5 +1,6 @@
 FFmpeg README
 =============
+本工程基于ffmpeg5.0进行增强，增加若干自定义filter，修复若干ffmpeg bug
 
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
